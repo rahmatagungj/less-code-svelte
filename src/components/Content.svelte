@@ -1,5 +1,4 @@
 <script>
-	import Fetcher from '../utils/fetcher';
 	let isFirst = true;
 	let isLoading = false;
 	let data = [];
